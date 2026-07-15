@@ -25,7 +25,7 @@ export default function Contact() {
         <iframe
           title="Hair Design International location map"
           src={site.mapEmbedSrc}
-          className="h-full w-full grayscale"
+          className="h-full w-full"
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
         />
