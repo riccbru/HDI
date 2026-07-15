@@ -89,7 +89,7 @@ export default function Contact() {
 
             <div className="mt-6 inline-flex items-center gap-2 rounded-full bg-surface-container px-4 py-2 text-xs font-semibold">
               <GraduationCap className="h-4 w-4 text-accent" />
-              Student discount available with valid ID
+              Student discount available Tuesday–Saturday with valid ID
             </div>
           </div>
 

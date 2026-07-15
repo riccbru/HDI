@@ -35,7 +35,8 @@ export default function Home() {
             <p className="text-xs font-bold uppercase tracking-wide text-accent">Student Special</p>
             <p className="mt-2 font-display text-4xl font-extrabold text-accent">$10 OFF</p>
             <p className="mt-2 text-sm text-white/70">
-              Show your valid student ID and receive an exclusive discount on your next precision haircut.
+              Show your valid student ID Tuesday through Saturday and receive an exclusive discount on
+              your next precision haircut.
             </p>
             <Button to="/contact" variant="accent" className="mt-5 w-full">
               Claim Discount
